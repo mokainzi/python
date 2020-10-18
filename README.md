@@ -1,2 +1,2 @@
 # python
-This repo is for R related stuff.
+This repo is for Python related stuff.
